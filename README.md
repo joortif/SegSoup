@@ -16,4 +16,4 @@ An example python notebook is provided, that can be either run on your device or
 
 ## 🌟 Acknowledgments
 
-This library is based on the work described in the paper "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time" ([arXiv:2203.05482](https://arxiv.org/abs/2203.05482)) by Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith and Ludwig Schmidt. 
+This library is based on the work described in the paper "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time" ([arXiv:2203.05482](https://arxiv.org/abs/2203.05482)) by Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt. 
