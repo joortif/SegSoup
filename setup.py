@@ -14,7 +14,7 @@ install_reqs = parse_requirements("requirements.txt")
 setup(
     name = 'segsoup',
 
-    version = '0.1.0',
+    version = '0.1.1',
 
     author = 'Joaquin Ortiz de Murua Ferrero',
     author_email = 'joortif@unirioja.es',
