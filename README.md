@@ -10,4 +10,6 @@ Furthermore, three "recipes" can be used for model souping:
 - **Weighted soup**: Different weights can be assigned to each model. For example, when creating a soup from sequential checkpoints of the same training run, higher weights can be given to later and more fully trained checkpoints.
 - **Greedy soup**: Models are sequentially added to the soup and kept only if the validation performance of the resulting soup improves.
 
+## 📝 Tutorials
 
+An example python notebook is provided, that can be either run on your device or in Google colab. You may preview the notebook [here]() or directly run it on Colab [here]()
